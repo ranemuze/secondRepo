@@ -1,0 +1,17 @@
+    1  cd - (change directory) changes directory from one folderto another Example: cd desktop
+
+    2.  pwd It shows current location
+
+    3.  git clone - clones the repository to any choosen folder with a specific URL
+
+    4.  ls lists - all the documents in the folder
+
+    5.  git status - to check if what you've added is there
+
+    6.  git add . - to add all new and changed files to the staging area
+
+    7.  git commit -m "type any message" - time stamp, commit changes
+
+    8.  git push - uploads all changes to repo
+
+    9.  history - lists all the git commands used
